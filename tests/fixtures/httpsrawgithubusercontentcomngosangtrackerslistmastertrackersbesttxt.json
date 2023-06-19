@@ -1,0 +1,29 @@
+{
+    "url": "https:\/\/raw.githubusercontent.com\/ngosang\/trackerslist\/master\/trackers_best.txt",
+    "headers": {
+        "Connection": " keep-alive",
+        "Content-Length": " 819",
+        "Cache-Control": " max-age=300",
+        "Content-Security-Policy": " default-src 'none'; style-src 'unsafe-inline'; sandbox",
+        "Content-Type": " text\/plain; charset=utf-8",
+        "ETag": " \"f450760ae4decb6fcc30d50d1a6e812a354b02f382c05fd4b5bdce6631689c8c\"",
+        "Strict-Transport-Security": " max-age=31536000",
+        "X-Content-Type-Options": " nosniff",
+        "X-Frame-Options": " deny",
+        "X-XSS-Protection": " 1; mode=block",
+        "X-GitHub-Request-Id": " 1ABE",
+        "Accept-Ranges": " bytes",
+        "Date": " Tue, 23 May 2023 15",
+        "Via": " 1.1 varnish",
+        "X-Served-By": " cache-par-lfpg1960077-PAR",
+        "X-Cache": " HIT",
+        "X-Cache-Hits": " 2",
+        "X-Timer": " S1684856708.291901,VS0,VE0",
+        "Vary": " Authorization,Accept-Encoding,Origin",
+        "Access-Control-Allow-Origin": " *",
+        "X-Fastly-Request-ID": " 7527f8de31bb256815bed7b02d630c30d53f2e43",
+        "Expires": " Tue, 23 May 2023 15",
+        "Source-Age": " 46"
+    },
+    "content": "udp:\/\/tracker.opentrackr.org:1337\/announce\n\nudp:\/\/opentracker.i2p.rocks:6969\/announce\n\nhttps:\/\/opentracker.i2p.rocks:443\/announce\n\nudp:\/\/tracker.openbittorrent.com:6969\/announce\n\nhttp:\/\/tracker.openbittorrent.com:80\/announce\n\nudp:\/\/9.rarbg.com:2810\/announce\n\nudp:\/\/open.demonii.com:1337\/announce\n\nudp:\/\/exodus.desync.com:6969\/announce\n\nudp:\/\/open.stealth.si:80\/announce\n\nudp:\/\/tracker.torrent.eu.org:451\/announce\n\nudp:\/\/tracker.moeking.me:6969\/announce\n\nudp:\/\/tracker.bitsearch.to:1337\/announce\n\nudp:\/\/tracker1.bt.moack.co.kr:80\/announce\n\nudp:\/\/tracker.altrosky.nl:6969\/announce\n\nudp:\/\/movies.zsw.ca:6969\/announce\n\nudp:\/\/explodie.org:6969\/announce\n\nhttps:\/\/tr.burnabyhighstar.com:443\/announce\n\nhttp:\/\/open.acgnxtracker.com:80\/announce\n\nudp:\/\/uploads.gamecoast.net:6969\/announce\n\nudp:\/\/tracker.theoks.net:6969\/announce\n\n"
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https:\/\/duckietv.github.io\/SceneNameExceptions\/SceneDateExceptions.json",
+    "headers": {
+        "Connection": " keep-alive",
+        "Content-Length": " 1079",
+        "Server": " GitHub.com",
+        "Content-Type": " application\/json; charset=utf-8",
+        "permissions-policy": " interest-cohort=()",
+        "Last-Modified": " Sat, 20 May 2023 19",
+        "Access-Control-Allow-Origin": " *",
+        "ETag": " \"64691ae2-437\"",
+        "expires": " Tue, 23 May 2023 15",
+        "Cache-Control": " max-age=600",
+        "x-proxy-cache": " MISS",
+        "X-GitHub-Request-Id": " 7A66",
+        "Accept-Ranges": " bytes",
+        "Date": " Tue, 23 May 2023 15",
+        "Via": " 1.1 varnish",
+        "Age": " 0",
+        "X-Served-By": " cache-par-lfpg1960034-PAR",
+        "X-Cache": " HIT",
+        "X-Cache-Hits": " 1",
+        "X-Timer": " S1684856709.547106,VS0,VE0",
+        "Vary": " Accept-Encoding",
+        "X-Fastly-Request-ID": " 496928d065b169a7fbe4b899ab73f74768ac0936"
+    },
+    "content": "{\n    \"70328\": \"YYYY-MM-DD\",\n    \"70600\": \"YYYY MM DD\",\n    \"71256\": \"YYYY MM DD\",\n    \"71424\": \"YYYY MM DD\",\n    \"71998\": \"YYYY MM DD\",\n    \"72194\": \"YYYY MM DD\",\n    \"72289\": \"YYYY MM DD\",\n    \"75332\": \"YYYY-MM-DD\",\n    \"75640\": \"YYYY MM DD\",\n    \"76573\": \"YYYY MM DD\",\n    \"76779\": \"YYYY MM DD\",\n    \"77075\": \"YYYY MM DD\",\n    \"79274\": \"YYYY MM DD\",\n    \"79838\": \"YYYY-MM-DD\",\n    \"84312\": \"YYYY MM DD\",\n    \"85355\": \"YYYY MM DD\",\n    \"144541\": \"YYYY MM DD\",\n    \"181561\": \"YYYY MM DD\",\n    \"194751\": \"YYYY MM DD\",\n    \"230991\": \"YYYY MM DD\",\n    \"252963\": \"YYYY MM DD\",\n    \"266718\": \"YYYY MM DD\",\n    \"270261\": \"YYYY MM DD\",\n    \"270262\": \"YYYY MM DD\",\n    \"274099\": \"YYYY MM DD\",\n    \"286373\": \"YYYY MM DD\",\n    \"289574\": \"YYYY MM DD\",\n    \"292421\": \"YYYY MM DD\",\n    \"317479\": \"YYYY MM DD\",\n    \"332734\": \"YYYY MM DD\",\n    \"349320\": \"YYYY MM DD\",\n    \"350513\": \"YYYY MM DD\",\n    \"352240\": \"YYYY MM DD\",\n    \"353122\": \"YYYY MM DD\",\n    \"354505\": \"YYYY MM DD\",\n    \"368955\": \"YYYY MM DD\",\n    \"369003\": \"YYYY MM DD\",\n    \"375658\": \"YYYY MM DD\",\n    \"403243\": \"YYYY MM DD\"\n}\n"
+}
